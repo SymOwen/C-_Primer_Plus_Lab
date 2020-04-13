@@ -7,5 +7,5 @@ int main()
     double height;
     cin >> height;
     cout << "Your height is " << height << " inch, which is about " << height*tran << "ft." << endl;
-
+    return 0;
 }
